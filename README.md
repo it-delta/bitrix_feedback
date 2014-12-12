@@ -1,4 +1,4 @@
-bitrix_feedback
+Bitrix form-mail
 ===============
 
 Компонент "Обратная связь" для CMS Bitrix
